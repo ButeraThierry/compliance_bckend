@@ -9,7 +9,7 @@ public void display(){
 	 public static void main(String[] args) {
 Package_2  d=new  Package_2();
 Package_1 c=new Package_1();
-d.college="IPCRC";
+d.college="Tumba";
 d.display();
 c.compute(20,50);
 	}
