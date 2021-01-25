@@ -1,0 +1,16 @@
+ class Employee{
+	
+
+	double salary=500000;
+
+public displaysalary(){
+	
+
+	System.out.println(" the employee")
+}
+}
+class Managerofemployee extends   Employee 
+
+
+String  managername;
+public String managernam
